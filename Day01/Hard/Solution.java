@@ -1,5 +1,5 @@
-package CodingClub.Day01.Hard;
-
+//Level : Hard
+//https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/?envType=daily-question&envId=2025-09-08
 class Solution {
     public int[] getNoZeroIntegers(int n) {
         int[] a=new int[2];
@@ -21,4 +21,5 @@ class Solution {
         }
         return true;
     }
+
 }
