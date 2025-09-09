@@ -1,4 +1,3 @@
-package CodingClub.Day01.Easy;
 // Level : Easy
 // https://www.geeksforgeeks.org/problems/count-digits-1606889545/1
 class Solution {
@@ -12,4 +11,5 @@ class Solution {
         }
         return count;
     }
+
 }
