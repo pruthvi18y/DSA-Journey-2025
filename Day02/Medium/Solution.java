@@ -1,3 +1,6 @@
+//Level : Medium
+//https://www.geeksforgeeks.org/problems/selection-sort/1
+
 class Solution {
     void selectionSort(int[] arr) {
         // code here
@@ -13,4 +16,5 @@ class Solution {
             arr[i] = temp;
         }
     }
+
 }
