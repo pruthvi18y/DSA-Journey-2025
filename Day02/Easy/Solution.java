@@ -1,3 +1,6 @@
+//Level : Easy
+//https://leetcode.com/problems/reverse-integer/description/
+
 class Solution {
     public int reverse(int x) {
         int res = 0;
@@ -11,3 +14,4 @@ class Solution {
         return res;
     }
 }
+
